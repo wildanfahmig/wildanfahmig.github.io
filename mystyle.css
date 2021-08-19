@@ -1,0 +1,25 @@
+h3 {
+  text-decoration: underline;
+}
+
+table {
+  border: 1px dashed black;
+}
+
+td {
+  border: 1px solid red;
+}
+
+#header {
+  background-color: slateblue;
+  border-radius: 10px;
+}
+
+#name {
+  color: white;
+  padding-left: 10px;
+}
+
+.company-name {
+  text-decoration: underline;
+}
